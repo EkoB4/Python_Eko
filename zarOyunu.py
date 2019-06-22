@@ -13,3 +13,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	i+=1
 	time.sleep(0.5)
 	print("""\n*** {}. denemede (6,6) geldi mi? ***""".format(i))
+#JREkin#
