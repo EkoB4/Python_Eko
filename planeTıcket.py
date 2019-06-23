@@ -3,7 +3,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #JREkin
 >>> class uçak_bilet:
 	def kontrol_işlemleri(adsoyad, yas):
-		ad = str(input"""İsminiz ve soyadınız? : """)
+		adsoyad = str(input"""İsminiz ve soyadınız? : """)
 		#Uyarı isim soyad yazarken (isim soyad) şeklinde boşlukla yazınız.#
 		yas=int(input"""Yaşınız? : """)
 		if yas > 17:
