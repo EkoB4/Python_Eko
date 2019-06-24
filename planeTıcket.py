@@ -4,9 +4,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	def kontrol_işlemleri(adsoyad, yas, yer, tarih,):
 		ad = str(input"""İsminiz ve soyadınız? : """)
 		#Uyarı isim soyad yazarken (İsim Soyad) şeklinde boşlukla yazınız.#
-		tarih input("""Gideceğiniz Tarihi ve yeri yazınız""")
+		tarih = input("""Gideceğiniz Tarihi ve yeri yazınız""")
 		#Uyarı Tarih yazarken örn(2020 Mart ) şeklinde boşlukla yazınız.#
-		yer str(input"""Gideceğiniz yeri yazın: """)
+		yer = str(input"""Gideceğiniz yeri yazın: """)
 		
 		yas=int(input"""Yaşınız? : """)
 		if yas > 17:
