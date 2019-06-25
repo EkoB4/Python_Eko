@@ -1,7 +1,7 @@
 
 
-print("\n\nWelcome! To Ticket Booking System\n")
-restart = ('Y')
+print("Sisteme Hoşgeldiniz\n")
+restart = ('E')
 
 while restart != ('H','HAYIR','hayır','h'):
 	print("1.Çıkmak İçin")
