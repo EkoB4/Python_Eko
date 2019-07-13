@@ -107,4 +107,4 @@ while roll_again == "yes":
       print ("To roll again, input 'yes'. To stop playing input 'no'.")
       print
    roll_again = input("Roll the die again? : ")
-   
+#Codded By Jrekin   
